@@ -23,6 +23,7 @@ module.exports.bootstrap = function (cb) {
   //   action: 'no_action'
   // })
   //start conjob
+  sails.config.port = process.env.PORT || 1337
   bootstrapAllControllers().then(() => {
     cb();
   });

@@ -702,3 +702,10 @@
 {"level":"info","message":"[IP:::1] [METHOD: OPTIONS] [URL: /customer/adminFindCustomers] [BODY: undefined]","timestamp":"2018-06-21T00:01:40.459Z"}
 {"level":"info","message":"[IP:::1] [METHOD: POST] [URL: /customer/adminFindCustomers] [BODY: {\"skip\":0,\"limit\":10,\"phone\":\"298\"}]","timestamp":"2018-06-21T00:01:40.474Z"}
 {"level":"info","message":"[IP:::1] [METHOD: POST] [URL: /customer/adminFindCustomers] [BODY: {\"skip\":0,\"limit\":10,\"phone\":\"5577\"}]","timestamp":"2018-06-21T00:01:44.827Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /] [BODY: undefined]","timestamp":"2018-06-21T09:15:55.153Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /styles/importer.css] [BODY: undefined]","timestamp":"2018-06-21T09:15:55.327Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /js/dependencies/sails.io.js] [BODY: undefined]","timestamp":"2018-06-21T09:15:55.333Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /] [BODY: undefined]","timestamp":"2018-06-21T09:17:40.316Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /styles/importer.css] [BODY: undefined]","timestamp":"2018-06-21T09:17:40.463Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /js/dependencies/sails.io.js] [BODY: undefined]","timestamp":"2018-06-21T09:17:40.471Z"}
+{"level":"info","message":"[IP:::1] [METHOD: GET] [URL: /favicon.ico] [BODY: undefined]","timestamp":"2018-06-21T09:17:41.225Z"}
