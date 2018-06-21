@@ -1,0 +1,12 @@
+customer secret key
+customer3FrXFLglG5tLo399fHu1BAYZkJ4BnhQq
+
+
+ADMINISTRATOR  secret key: yeGzz5y6kkT3lUV4rlw0qG6QPKkZ4CSv
+ /admin/approvePartner => /partner/adminApprovePartner
+  /admin/approvePartnerSimple   => /partner/adminApprovePartnerSimple
+
+  /user/adminFindUsers  =>/partner/adminFindPartners
+  /admin/unblockPartner =>/partner/adminUnblockPartner
+  /admin/blockPartner=> /partner/adminBlockPartner
+  /admin/findPartnersByDistrict=>  /partner/findPartnersByDistrict

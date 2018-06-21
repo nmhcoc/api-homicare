@@ -1,0 +1,30 @@
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:38:37.452Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:42:28.470Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:43:06.764Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:43:41.266Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:43:56.876Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:44:33.805Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:46:50.882Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:47:13.366Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T12:59:39.094Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T13:01:37.271Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25045bf1d6d127ac5d8e85 (Administrator) & client = officer","timestamp":"2018-06-16T13:22:19.797Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25242f3f029427189f4632 (hung) & client = customer","timestamp":"2018-06-16T14:54:50.351Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25242f3f029427189f4632 (hung) & client = customer","timestamp":"2018-06-16T14:55:36.948Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b25290c89aa201618e9317b (Administrator) & client = officer","timestamp":"2018-06-19T16:37:07.293Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b293240cfa0b11a245bf285 (hung) & client = customer","timestamp":"2018-06-19T16:43:33.937Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b293b572000b923d0ad9ec5 (hung) & client = customer","timestamp":"2018-06-19T17:20:49.624Z"}
+{"level":"info","message":"userctrl: user logout - userid = 5b293b572000b923d0ad9ec5 (hung)","timestamp":"2018-06-19T17:23:01.751Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b293b572000b923d0ad9ec5 (hung) & client = customer","timestamp":"2018-06-19T17:23:24.202Z"}
+{"level":"info","message":"userctrl: user logout - userid = 5b293b572000b923d0ad9ec5 (hung)","timestamp":"2018-06-19T17:23:36.506Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 5b293b572000b923d0ad9ec5 (hung) & client = customer","timestamp":"2018-06-19T17:32:39.898Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c99ea1ac770c0174a85e6 & customer = 5afbe36c1ac770c0174a82ad (Nguyễn Văn Cảnh) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.068Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c99ae1ac770c0174a85e5 & customer = 5afbe36c1ac770c0174a82ad (Nguyễn Văn Cảnh) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.144Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c9de51ac770c0174a85ec & customer = 5b1c9b041ac770c0174a85e7 (Đàm Hiếu Đoán) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.164Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c99ea1ac770c0174a85e6 & customer = 5afbe36c1ac770c0174a82ad (Nguyễn Văn Cảnh) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.173Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c9da11ac770c0174a85eb & customer = 5b1c9b041ac770c0174a85e7 (Đàm Hiếu Đoán) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.193Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c99ae1ac770c0174a85e5 & customer = 5afbe36c1ac770c0174a82ad (Nguyễn Văn Cảnh) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.291Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c9da11ac770c0174a85eb & customer = 5b1c9b041ac770c0174a85e7 (Đàm Hiếu Đoán) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.314Z"}
+{"level":"info","message":"push: pushOrderOnTime - orderid = 5b1c9de51ac770c0174a85ec & customer = 5b1c9b041ac770c0174a85e7 (Đàm Hiếu Đoán) & partner = 5abc963c648cf2525d249caa (Lê Hồng Đức)","timestamp":"2018-06-20T23:40:33.348Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 59c51f546bf2432f211de1c3 (Administrator) & client = officer","timestamp":"2018-06-20T23:41:15.277Z"}
+{"level":"info","message":"usercontroller: user login (online) - userid = 59c51f546bf2432f211de1c3 (Administrator) & client = officer","timestamp":"2018-06-21T00:01:10.365Z"}
